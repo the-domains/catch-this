@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Catch this]]></title>
         <description><![CDATA[Catch this]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/catch-this/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 16:02:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 16:03:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/catch-this/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e540d50-dc2f-468f-99d9-eb610e1d5459.jpg">]]></description>
-            <link>undefinedeat-food-not-too-much-mostly-plants/index.html</link>
+            <link>https://thegrid.ai/catch-this/eat-food-not-too-much-mostly-plants/index.html</link>
             <guid isPermaLink="false">5d7158af-07e8-403a-8fbd-13c6dc798fa6</guid>
-            <pubDate>Mon, 21 Mar 2016 16:02:29 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2016 16:03:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
