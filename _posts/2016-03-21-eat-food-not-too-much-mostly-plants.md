@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: '"Eat food, not too much, mostly plants."'
-datePublished: '2016-03-21T16:02:29.347Z'
-dateModified: '2016-03-21T16:02:18.653Z'
+datePublished: '2016-03-21T16:03:42.984Z'
+dateModified: '2016-03-21T16:02:39.869Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-21-eat-food-not-too-much-mostly-plants.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-21-eat-food-not-too-much-mostly-plants.md
-published: true
 url: eat-food-not-too-much-mostly-plants/index.html
 _type: Article
 
