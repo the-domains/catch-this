@@ -1,29 +1,41 @@
-name: Catch this
-favicon: null
-layout_spectrum: 0.49878450646065176
-typography_spectrum: 0.34103302797302604
-title: The I-Course
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0.4375
+  saturation: 0.2848338710609823
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.4375
   lightness: 0.9013375968206674
-  saturation: 0.28483387106098235
   rhythmicContrast: 0.777347061317414
+title: The I-Course
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  version: null
+  bucket: null
+  domain: null
+favicon: null
+layout_spectrum: 0.4987845064606518
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
+name: Catch this
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.341033027973026
