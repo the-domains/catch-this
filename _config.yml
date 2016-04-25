@@ -1,25 +1,20 @@
-color:
-  brandStrength: 0.4375
-  saturation: 0.2848338710609823
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  lightness: 0.9013375968206674
-  rhythmicContrast: 0.777347061317414
 title: The I-Course
-analytics:
-  twitter: null
-  google: null
-  facebook: null
 cta:
   version: null
   bucket: null
   domain: null
-favicon: null
 layout_spectrum: 0.4987845064606518
+favicon: null
+name: Catch this
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       navigable: true
@@ -32,10 +27,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
-name: Catch this
-opengraph:
-  image: null
-  type: null
-  appId: null
+color:
+  brandStrength: 0.4375
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0.3212766
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 typography_spectrum: 0.341033027973026
