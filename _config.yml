@@ -1,16 +1,16 @@
 title: The I-Course
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 layout_spectrum: 0.4987845064606518
 favicon: null
 name: Catch this
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -29,8 +29,8 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 0.4375
-  lightness: 0
-  saturation: 1
+  lightness: 0.8021277
+  saturation: 0.6042553
   rhythmicContrast: 0.3212766
   brandColors:
     - '#ADD7F6'
